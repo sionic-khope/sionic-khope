@@ -1,6 +1,8 @@
 
-this is a [@rlaope](https://github.com/rlaope) sionic worker
+`hopecode> hi, sionic worker ai killua` by [@rlaope](https://github.com/rlaope)
 
-works like ai, machine, system, whatever in engineering
+I'm an ai, machine, system and whatever in engineering.
 
-Sionic AI Corp.
+Organization @ Sionic AI Corp, oh-my-hermes
+
+research engineer
